@@ -1,0 +1,11 @@
+---
+
+FEServers: "52.91.163.197"
+BEServers: "52.91.25.200"
+DeployServer: "54.85.63.77"
+ReportServers: "52.90.238.56"
+
+# domain
+Domain: "core-staging.devops.greatvalleyu.com"
+
+AGListener: "CRMSQLAG1L"
